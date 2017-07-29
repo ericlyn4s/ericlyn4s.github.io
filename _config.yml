@@ -6,7 +6,7 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Eric Peterson # Your name will go here
-  description: ""A personal portfolio and blog website"" # used by search engines
+  description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
@@ -24,7 +24,7 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github: ericlyn4s# github profile name, e.g. "madebymunsters"
+  github: ericlyn4s
   google_plus:
   instagram:
   linkedin:  https://www.linkedin.com/in/eric-peterson-40909936/
